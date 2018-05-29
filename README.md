@@ -6,13 +6,13 @@
 ## Alternative Begriffe
 - Data Obfuscation
 - Data Sanitization 
-- Data Scrambling.
+- Data Scrambling
 
 ## Abgrenzung
 Im Gegensatz zur Verschlüsselung existiert keine 1:1 Verbindung zwischen Original- und Verfremdetendaten. 
 Ein Erkennungsmerkmal ist, das die Daten meist lesbar bleiben.
 
-Date Masking beschränkt sich nicht nur auf Personen und Adresdaten. Es ist möglich alle Arten von Daten zu maskieren.
+Data Masking beschränkt sich nicht nur auf Personen und Adressdaten. Es ist möglich alle Arten von Daten zu maskieren.
 
 ## Ziel 
 
